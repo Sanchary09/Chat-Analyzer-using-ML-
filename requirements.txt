@@ -2,6 +2,8 @@ matplotlib==3.5.3
 streamlit==1.23.1
 seaborn==0.12.2
 urlextract==1.9.0
+wordcloud==1.9.3
+
 
 
 
